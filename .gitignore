@@ -1,0 +1,8 @@
+Library/*
+Build/*
+Build_GL/*
+Logs/*
+obj/*
+.vs/*
+*.sln
+*.log

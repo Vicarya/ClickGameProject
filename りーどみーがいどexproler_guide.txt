@@ -1,0 +1,8 @@
+<Access>
+Program ... ClickGameProject.sln  or  Assets/Scripts/
+
+Game ... Build/ClickGameProject.exe
+         or WEBGL(address ... https://unityroom.com/games/clicker-pro)
+
+Irrust ...Assets/Sprite/  [Alart: not original]
+
