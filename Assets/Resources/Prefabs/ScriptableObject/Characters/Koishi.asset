@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26186005c0729744f912e4a37461714b, type: 3}
+  m_Name: Koishi
+  m_EditorClassIdentifier: 
+  Name: Koishi
+  Graph: {fileID: 21300000, guid: 7932b1547679fb04f885cc7e5867bb8e, type: 3}
+  basePrice: 1000
+  Price: 1000
+  Count: 0
+  basePower: 0.1
+  Power: 0
+  LargeGraphs:
+  - {fileID: 21300000, guid: ad2830cb47cb7544c81b946dec121508, type: 3}
+  - {fileID: 21300000, guid: 014082c7c226d1440ae20b60b49eff4c, type: 3}
+  - {fileID: 21300000, guid: 9862970419e34a2449b640f2f4295335, type: 3}
+  Level: 0
+  GrawExp: 1000
+  BaseSpeed: 100
+  Speed: 0
+  futureSpeed: 100
+  futurePower: 0.1
+  paramData: {fileID: 4900000, guid: 673d4e836576c8c4caf56b5b25dcb859, type: 3}

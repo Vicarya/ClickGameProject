@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d22c07a1816c55448d95b7b0c3ad0a1, type: 3}
+  m_Name: Enemy8
+  m_EditorClassIdentifier: 
+  Lv: 1
+  BaseHp: 10
+  Hp: 10
+  MaxHp: 10
+  Graph: {fileID: 21300000, guid: cfc713e6882866c4499adec128fe4e72, type: 3}
+  Speed: 100
+  BaseDropGold: 100
+  DropGold: 100
+  BaseDropExp: 500
+  DropExp: 500

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26186005c0729744f912e4a37461714b, type: 3}
+  m_Name: Huto
+  m_EditorClassIdentifier: 
+  Name: Huto
+  Graph: {fileID: 21300000, guid: 38cfe9e0e42f7184fa0f46eb23a148f2, type: 3}
+  basePrice: 1000
+  Price: 4000
+  Count: 2
+  basePower: 0.1
+  Power: 0.6
+  LargeGraphs:
+  - {fileID: 21300000, guid: c2a90aea5d9c72d43b687c171e683fe6, type: 3}
+  - {fileID: 21300000, guid: 69762cb86388ac840b1ceca7548e40e0, type: 3}
+  - {fileID: 21300000, guid: 2096fe2a2f7ef49418dfb16fe1781688, type: 3}
+  Level: 6
+  GrawExp: 2312
+  BaseSpeed: 100
+  Speed: 150
+  futureSpeed: 150
+  futurePower: 0.6
+  paramData: {fileID: 4900000, guid: 254aefdafa575f94abe428c9f448718e, type: 3}
